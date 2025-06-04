@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="ffpp">
+    <Package name="Main">
+        <Key ID="STR_ffpp_URL">
+            <English>https://github.com/official-antistasi-community/A3-FF-Punishment-Phantom</English>
+        </Key>
+        <Key ID="STR_ffpp_author">
+            <English>Antistasi Official Community</English>
+        </Key>
+    </Package>
+</Project>
